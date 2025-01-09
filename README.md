@@ -1,4 +1,4 @@
-ios签名和分发系统代码/超级签/MDM/企业级/TF签名/无限制安装/网站封装/软件分发/uniapp开发打包/apicloud源码打包/开发软件上架源码和代码。 全套系统代码稳定，可以真正商用。不是那些几百元或者一两千的可以媲美的。 联系TG：@xuzongbin001或E-Mial：taibaibaba1314@gmail.com
+ios签名和分发系统代码/超级签/MDM/企业级/TF签名/无限制安装/网站封装/软件分发/uniapp开发打包/apicloud源码打包/开发软件上架源码和代码。 全套系统代码稳定，可以真正商用。不是那些几百元或者一两千的可以媲美的。联系Telegram：@xuzongbin001或E-mail：taibaibaba1314@gmail.com
 ![A7C5A4C5ACB9325DE8A9D12B1547D9D5](https://github.com/user-attachments/assets/3d4dd081-2950-42d3-8213-1b9eb1440f07)
 ![08B9672E45A6192415117CFBB03AD9ED - 副本](https://github.com/user-attachments/assets/e5e031dc-7bd8-4c12-958d-a8a1af8faee9)
 
